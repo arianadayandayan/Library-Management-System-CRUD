@@ -1,7 +1,7 @@
 # Library Management System (CRUD)
 **Group Members:**
 1. Dayandayan, Ariana P. (Leader)
-2. Ferrer, janika S.
+2. Ferrer, Janika S.
 3. Valdez, Jan Dominic 
 
 **Description:**
